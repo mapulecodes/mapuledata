@@ -1,0 +1,135 @@
+{
+    "jobTitle": [
+        {
+            "title": "full stack-developer",
+            "color": "rgb(0, 0, 0)"
+        }   
+    ],
+    "about": [
+        "Hi there, I am Mapule Mbuzwana, a Full Stack Developer with a passion for bringing ideas to life. I have experience in both front-end and back-end development.",
+        "When I'm not coding, I am creating website templates, watching my favorite shows and enjoying outdoor activities."
+    ],
+    "tech_skills": [
+        {
+            "front-end": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Vue.js"
+            ]
+        },
+        {
+            "back-end": [
+                "Node.js"
+               
+            ]
+        },
+        {
+            "database": "MySQL"
+        }
+    ],
+    "hobbies": [
+        {
+            "id": 1,
+            "year": 2023,
+            "description": "I started selling website templates and ended up falling in love with design and coding",
+            "place": "Etsy",
+            "type": "Shop",
+            "link": "https://www.etsy.com/shop/level6designs?ref=search_shop_redirect"
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
+            "place": "Wattpad",
+            "type": "Stories",
+            "link": "https://www.wattpad.com/user/map2985119"
+        }
+    ],
+    "experience": [
+        {
+            "id": 3,
+            "year": 2019,
+            "description": "I started working as a sales assistant right after high school as I enjoyed working with people",
+            "place": "Sportsmans Warehouse",
+            "type": "Job"
+        },
+        {
+            "id": 4,
+            "year": 2021,
+            "description": "I started working at Excell Hygiene to learn how to manage a business, which led me to my passion for coding as I created my first code for a schedule landing page",
+            "place": "Excell Hygiene",
+            "type": "Job"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Mordecai",
+            "surname": "Dimbu",
+            "quotes": "Mapule is a brilliant developer with a love for solving complex problems efficiently."
+        },
+        {
+            "name": "Mbalentle",
+            "surname": "Diko",
+            "quotes": "Mapule's is creactive and her dedication is remarkable."
+        },
+        {
+            "name": "Amy",
+            "surname": "Johnson",
+            "quotes": "Mapule's coding skills and dedication are remarkable."
+        },
+        {
+            "name": "Lonke",
+            "surname": "Hintsho",
+            "quotes": "Mapule solves problems efficiently."
+        },
+        {
+            "name": "Daniel",
+            "surname": "Numetor",
+            "quotes": "Mapule is fun to work with and is always ready to help"
+        },
+        {
+            "name": "Patricia",
+            "surname": "Adams",
+            "quotes": "Mapule is an exceptional developer with great problem-solving skills. A pleasure to mentor."
+            
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "Calculator",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "pink cafe",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "lifechoices coffee",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        }
+    ]
+}
