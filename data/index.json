@@ -8,6 +8,7 @@
     "about": [
         "Hi there, I am Mapule Mbuzwana, a Full Stack Developer with a passion for bringing ideas to life. I have experience in both front-end and back-end development.",
         "When I'm not coding, I am creating website templates, watching my favorite shows and enjoying outdoor activities."
+        
     ],
     "resume": [
         {
@@ -35,7 +36,7 @@
             "description": "I started selling website templates and ended up falling in love with design and coding",
             "place": "Etsy",
             "type": "Shop",
-            "link": "https://www.etsy.com/shop/level6designs?ref=search_shop_redirect"
+            "image": "https://mapulecodes.github.io/fridayimages/images/Etsy.png"
         },
         {
             "id": 2,
@@ -43,7 +44,39 @@
             "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
             "place": "Wattpad",
             "type": "Stories",
-            "link": "https://www.wattpad.com/user/map2985119"
+            "image": "https://mapulecodes.github.io/fridayimages/images/art.png"
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "I started selling website templates and ended up falling in love with design and coding",
+            "place": "Etsy",
+            "type": "Shop",
+            "image": "https://mapulecodes.github.io/fridayimages/images/canva.png"
+        },
+        {
+            "id": 4,
+            "year": 2023,
+            "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
+            "place": "Wattpad",
+            "type": "Stories",
+            "image": "https://mapulecodes.github.io/fridayimages/images/w.jpg"
+        },
+        {
+            "id": 5,
+            "year": 2023,
+            "description": "I started selling website templates and ended up falling in love with design and coding",
+            "place": "Etsy",
+            "type": "Shop",
+            "image": "https://mapulecodes.github.io/fridayimages/images/hiking.png"
+        },
+        {
+            "id": 6,
+            "year": 2023,
+            "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
+            "place": "Wattpad",
+            "type": "Stories",
+            "image": "https://mapulecodes.github.io/fridayimages/images/gym.png"
         }
     ],
     "experience": [
