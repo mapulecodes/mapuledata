@@ -9,15 +9,14 @@
         "Hi, I'm Mapule Mbuzwana, an experienced Full Stack Developer passionate about turning ideas into digital solutions. I have a strong background in both building the parts of websites you see (front-end) and making sure everything works behind the scenes (back-end).",
         "I specialize in creating easy-to-use designs for websites and setting up systems that handle lots of users without slowing down. Beyond coding, I love designing unique website templates that are both stylish and practical, aiming to make online experiences better for everyone. When I'm not coding, I enjoy relaxing with my favorite TV shows for inspiration. I also find joy in spending time outdoors, taking photos of beautiful scenery and going on refreshing hikes."
     ],
-    "education": {
-        "details": [
+    "education": [
             {
                 "place": "blouberg grant high school ",
                 "time": "2017",
                 "achievement": "matric-bachelor pass"
             }
-        ]
-    },
+        ],
+        
     "resume": {
         "front-end": [
             "HTML",
