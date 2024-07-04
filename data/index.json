@@ -16,18 +16,27 @@
                 "achievement": "matric-bachelor pass"
             }
         ],
-    "resume": {
-        "front-end": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Vue.js"
-        ],
-        "back-end": [
-            "Node.js"
-        ],
-        "database": "MySQL"
-    },
+        
+            "skills": [
+              {
+                "title": "Programming",
+                "experience": "Although I'm still learning, programming is an area I'm passionate about. I'm eager to dive into languages like Python, JavaScript, and Java. Every new language is a chance to expand my understanding and hone my skills."
+              },
+              {
+                "title": "Web Development",
+                "experience": "As a beginner in web development, I am currently learning HTML, CSS, Bootstrap, and JavaScript. I'm excited to build my first applications and grow my skills in these foundational technologies."
+              },
+              {
+                "title": "API",
+                "experience": "I'm starting to explore APIs, understanding how they act as a bridge between the front end and back end. Learning about securing, identifying, and authorizing user access through APIs using technologies like Django and ExpressJS is a thrilling journey for me."
+              },
+              {
+                "title": "Database",
+                "experience": "I'm at the beginning of my journey with databases, both SQL-structured and document-based. I'm fascinated by the importance of data integrity and the role a well-structured database plays in application development."
+              }
+            ],
+          
+          
     "hobbies": [
         {
             "id": 1,
