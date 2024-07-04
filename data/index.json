@@ -83,23 +83,23 @@
     ],
     "experience": [
         {
-            "id": 1,
+            "id": 7,
             "year": 2018,
-            "description": "I started working at Sportsmans Warehouse where I did shop fitting and warehouse work.",
+            "description": "I started working at Sportsmans Warehouse where I helped customers find items and sales.",
             "place": "Sportsmans Warehouse",
             "type": "Job"
         },
         {
-            "id": 2,
+            "id": 8,
             "year": 2021,
             "description": "I started working at H&M as a cashier. After 1 years, I worked as a fitting room attendant. I enjoyed meeting and helping new people, which made me gain a passion for work. ",
             "place": "H&M",
             "type": "Job"
         },
         {
-            "id": 3,
+            "id": 9,
             "year": 2021,
-            "description": "I worked at Excellent Hygiene as a receptionist and sales representative. During my tenure, I developed an interest in coding and created my first website. This sparked my journey into web development.",
+            "description": "I worked at Excellent Hygiene as a receptionist and sales representative.  I developed an interest in coding and created my first website. This sparked my journey into web development.",
             "place": "Excellent Hygiene",
             "type": "Job"
         }
