@@ -146,35 +146,35 @@
         {
             "name": "To-do List",
             "description": "",
-            "image": "",
-            "gitHub": "",
+            "image": "https://mapulecodes.github.io/fridayimages/images/todo.png",
+            "gitHub": "https://github.com/mapulecodes/to-do-list.git",
             "netlify": ""
         },
         {
             "name": "Calculator",
             "description": "",
-            "image": "",
+            "image": "https://mapulecodes.github.io/fridayimages/images/calculator.png",
             "gitHub": "",
-            "netlify": ""
+            "netlify": "https://github.com/mapulecodes/calculator2.git"
         },
         {
-            "name": "Pink Cafe",
+            "name": "Bmi Calculator",
             "description": "",
-            "image": "",
-            "gitHub": "",
+            "image": "https://mapulecodes.github.io/fridayimages/images/bmi.png",
+            "gitHub": "https://github.com/mapulecodes/bmi-calculator.git",
             "netlify": ""
         },
         {
             "name": "Lifechoices Coffee",
             "description": "",
-            "image": "",
+            "image": "https://mapulecodes.github.io/fridayimages/",
             "gitHub": "",
             "netlify": ""
         },
         {
-            "name": "",
+            "name": "Mzee store",
             "description": "",
-            "image": "",
+            "image": "https://mapulecodes.github.io/fridayimages/",
             "gitHub": "",
             "netlify": ""
         }
