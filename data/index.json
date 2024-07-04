@@ -1,34 +1,36 @@
 {
     "jobTitle": [
         {
-            "title": "full stack-developer",
+            "title": "white",
             "color": "rgb(0, 0, 0)"
         }   
     ],
     "about": [
-        "Hi there, I am Mapule Mbuzwana, a Full Stack Developer with a passion for bringing ideas to life. I have experience in both front-end and back-end development.",
-        "When I'm not coding, I am creating website templates, watching my favorite shows and enjoying outdoor activities."
-        
+        "Hi, I'm Mapule Mbuzwana, an experienced Full Stack Developer passionate about turning ideas into digital solutions. I have a strong background in both building the parts of websites you see (front-end) and making sure everything works behind the scenes (back-end).",
+        "I specialize in creating easy-to-use designs for websites and setting up systems that handle lots of users without slowing down. Beyond coding, I love designing unique website templates that are both stylish and practical, aiming to make online experiences better for everyone. When I'm not coding, I enjoy relaxing with my favorite TV shows for inspiration. I also find joy in spending time outdoors, taking photos of beautiful scenery and going on refreshing hikes."
     ],
-    "resume": [
-        {
-            "front-end": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Vue.js"
-            ]
-        },
-        {
-            "back-end": [
-                "Node.js"
-               
-            ]
-        },
-        {
-            "database": "MySQL"
-        }
-    ],
+    "education": {
+        "title": "Education",
+        "details": [
+            {
+                "place": "University of Johannesburg",
+                "time": "2017-2020",
+                "achievement": "Bachelor of Science in Computer Science"
+            }
+        ]
+    },
+    "resume": {
+        "front-end": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Vue.js"
+        ],
+        "back-end": [
+            "Node.js"
+        ],
+        "database": "MySQL"
+    },
     "hobbies": [
         {
             "id": 1,
@@ -81,17 +83,24 @@
     ],
     "experience": [
         {
-            "id": 3,
-            "year": 2019,
-            "description": "I started working as a sales assistant right after high school as I enjoyed working with people",
+            "id": 1,
+            "year": 2018,
+            "description": "I started working at Sportsmans Warehouse where I did shop fitting and warehouse work.",
             "place": "Sportsmans Warehouse",
             "type": "Job"
         },
         {
-            "id": 4,
+            "id": 2,
             "year": 2021,
-            "description": "I started working at Excell Hygiene to learn how to manage a business, which led me to my passion for coding as I created my first code for a schedule landing page",
-            "place": "Excell Hygiene",
+            "description": "I started working at H&M as a cashier. After 1 years, I worked as a fitting room attendant. I enjoyed meeting and helping new people, which made me gain a passion for work. ",
+            "place": "H&M",
+            "type": "Job"
+        },
+        {
+            "id": 3,
+            "year": 2021,
+            "description": "I worked at Excellent Hygiene as a receptionist and sales representative. During my tenure, I developed an interest in coding and created my first website. This sparked my journey into web development.",
+            "place": "Excellent Hygiene",
             "type": "Job"
         }
     ],
@@ -119,16 +128,15 @@
         {
             "name": "Daniel",
             "surname": "Numetor",
-            "quotes": "Mapule is fun to work with and is always ready to help"
+            "quotes": "Mapule is fun to work with and is always ready to help."
         },
         {
             "name": "Patricia",
             "surname": "Adams",
             "quotes": "Mapule is an exceptional developer with great problem-solving skills. A pleasure to mentor."
-            
         }
     ],
-    "projects":[
+    "projects": [
         {
             "name": "To-do List",
             "description": "",
@@ -144,14 +152,14 @@
             "netlify": ""
         },
         {
-            "name": "pink cafe",
+            "name": "Pink Cafe",
             "description": "",
             "image": "",
             "gitHub": "",
             "netlify": ""
         },
         {
-            "name": "lifechoices coffee",
+            "name": "Lifechoices Coffee",
             "description": "",
             "image": "",
             "gitHub": "",
