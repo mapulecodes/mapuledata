@@ -113,33 +113,40 @@
         {
             "name": "Mordecai",
             "surname": "Dimbu",
-            "quotes": "Mapule is a brilliant developer with a love for solving complex problems efficiently."
+            "quotes": "Mapule is a brilliant developer with a love for solving complex problems efficiently.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/momo.jpg"
         },
         {
             
-            "name": "Mbalentle",
-            "surname": "Diko",
-            "quotes": "Mapule's is creactive and her dedication is remarkable."
+            "name": "Thuthuza",
+            "surname": "Poswayo",
+            "quotes": "Mapule's is creactive and her dedication is remarkable.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/Thutz1.jpg"
         },
         {
             "name": "Amy",
             "surname": "Johnson",
-            "quotes": "Mapule's coding skills and dedication are remarkable."
+            "quotes": "Mapule's coding skills and has good eye for beautiful things.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/amy1.jpg"
         },
         {
             "name": "Lonke",
             "surname": "Hintsho",
-            "quotes": "Mapule solves problems efficiently."
+            "quotes": "Mapule solves problems efficiently.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/pratricia.jpg"
         },
         {
             "name": "Daniel",
             "surname": "Numetor",
-            "quotes": "Mapule is fun to work with and is always ready to help."
+            "quotes": "Mapule is fun to work with and is always ready to help.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/danielportrait.jpg"
         },
         {
-            "name": "Patricia",
+            "name": "Yakhupa",
             "surname": "Adams",
-            "quotes": "Mapule is an exceptional developer with great problem-solving skills. A pleasure to mentor."
+            "quotes": "Mapule is an exceptional developer with great problem-solving skills. A pleasure to mentor.",
+            "image": "https://mapulecodes.github.io/fridayimages/images/yakupa.jpg"
+
         }
     ],
     "projects": [
