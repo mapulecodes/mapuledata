@@ -49,16 +49,16 @@
             "id": 2,
             "year": 2023,
             "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
-            "place": "Wattpad",
-            "type": "Stories",
+            "place": "Art",
+            "type": "painting",
             "image": "https://mapulecodes.github.io/fridayimages/images/art.png"
         },
         {
             "id": 3,
             "year": 2023,
             "description": "I started selling website templates and ended up falling in love with design and coding",
-            "place": "Etsy",
-            "type": "Shop",
+            "place": "Canva",
+            "type": "Design",
             "image": "https://mapulecodes.github.io/fridayimages/images/canva.png"
         },
         {
@@ -73,16 +73,16 @@
             "id": 5,
             "year": 2023,
             "description": "I started selling website templates and ended up falling in love with design and coding",
-            "place": "Etsy",
-            "type": "Shop",
+            "place": "Hiking",
+            "type": "Outdoor",
             "image": "https://mapulecodes.github.io/fridayimages/images/hiking.png"
         },
         {
             "id": 6,
             "year": 2023,
             "description": "I started reading stories online to pass time, but found myself writing my own story and sharing it",
-            "place": "Wattpad",
-            "type": "Stories",
+            "place": "Gym",
+            "type": "Workout",
             "image": "https://mapulecodes.github.io/fridayimages/images/gym.png"
         }
     ],
