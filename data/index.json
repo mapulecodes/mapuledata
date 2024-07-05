@@ -1,7 +1,7 @@
 {
     "jobTitle": [
         {
-            "title": "white",
+            "title": "aspiring full stack developer",
             "color": "rgb(0, 0, 0)"
         }   
     ],
@@ -117,6 +117,7 @@
             "quotes": "Mapule is a brilliant developer with a love for solving complex problems efficiently."
         },
         {
+            
             "name": "Mbalentle",
             "surname": "Diko",
             "quotes": "Mapule's is creactive and her dedication is remarkable."
@@ -148,28 +149,28 @@
             "description": "to do list app",
             "image": "https://mapulecodes.github.io/fridayimages/images/todo.png",
             "gitHub": "https://github.com/mapulecodes/to-do-list.git",
-            "netlify": "https://to-do-list-eight-orpin.vercel.app/"
+            "vercel": "https://to-do-list-eight-orpin.vercel.app/"
         },
         {
             "name": "Calculator",
             "description": "pink calculator app",
             "image": "https://mapulecodes.github.io/fridayimages/images/calculator.png",
             "gitHub": "https://github.com/mapulecodes/calculator2.git",
-            "netlify": "https://calculator2-mu.vercel.app/"
+            "vercel": "https://calculator2-mu.vercel.app/"
         },
         {
             "name": "Bmi Calculator",
             "description": "bmi calculator to check health",
             "image": "https://mapulecodes.github.io/fridayimages/images/bmi.png",
             "gitHub": "https://github.com/mapulecodes/bmi-calculator.git",
-            "netlify": "https://bmi-calculator-lilac-psi.vercel.app/"
+            "vercel": "https://bmi-calculator-lilac-psi.vercel.app/"
         },
         {
             "name": "Lifechoices Coffee",
             "description": "",
             "image": "https://mapulecodes.github.io/fridayimages/",
             "gitHub": "",
-            "netlify": ""
+            "vercel": ""
         },
         {
             "name": "Mzee store",
