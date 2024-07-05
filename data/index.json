@@ -166,17 +166,24 @@
         },
         {
             "name": "Lifechoices Coffee",
-            "description": "",
-            "image": "https://mapulecodes.github.io/fridayimages/",
-            "gitHub": "",
-            "vercel": ""
+            "description": "lifechoices eccomerce",
+            "image": "https://mapulecodes.github.io/fridayimages/images/life.png",
+            "gitHub": "https://lifechoicescoffee.vercel.app/",
+            "vercel": "https://github.com/mapulecodes/lifechoicescoffee.git"
         },
         {
-            "name": "Mzee store",
-            "description": "",
-            "image": "https://mapulecodes.github.io/fridayimages/",
-            "gitHub": "",
-            "netlify": ""
+            "name": "Tempreture convetor",
+            "description": "converts celsius to fareinheit",
+            "image": "https://mapulecodes.github.io/fridayimages/images/cel.png",
+            "gitHub": "https://github.com/mapulecodes/temperature-convetor.git",
+            "vercel": "https://temperature-convetor.vercel.app/"
+        },
+        {
+            "name": "Mapule-portfolio",
+            "description": "my bootstrap portfolio",
+            "image": "https://mapulecodes.github.io/fridayimages/images/port.png",
+            "gitHub": "https://github.com/mapulecodes/Mapule-portfolio.git",
+            "vercel": "https://mapule-portfolio.vercel.app/"
         }
     ]
 }
